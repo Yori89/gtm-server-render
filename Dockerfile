@@ -1,1 +1,1 @@
-FROM ghcr.io/ivanceras/gtm-cloud-run:latest
+FROM cspinetta/gtm-server:latest
