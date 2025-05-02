@@ -1,1 +1,1 @@
-FROM cspinetta/gtm-server:latest
+FROM ghcr.io/gtm-server/gtm-container:latest
