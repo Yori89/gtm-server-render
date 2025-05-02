@@ -1,1 +1,1 @@
-FROM gcr.io/gtm-server/gtm-cloud-image:stable
+FROM ghcr.io/ivanceras/gtm-cloud-run:latest
