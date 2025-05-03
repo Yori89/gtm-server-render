@@ -1,1 +1,1 @@
-FROM ghcr.io/gtm-server/gtm-container:latest
+FROM gcr.io/cloud-tagging-10302018/gtm-cloud-image:stable
